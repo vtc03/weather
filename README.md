@@ -9,7 +9,7 @@ Comeparing the amount of rain between Seattle and Miami
 Provide a short and concise overview of the project. Mention the problem it solves, the data used, and the key outcomes or findings.
 
 - **Objective:** Determine which city receives more rainfall, Seattle or Miami.
-- **Domain:** Climate/En
+- **Domain:** Climate/Environmental Science
 - **Key Techniques:** (e.g., Regression, Classification, Clustering, NLP, Time Series)
 
 ---
