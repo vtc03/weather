@@ -1,7 +1,7 @@
-# Project Title: Seattle vs. Miami: Defining What It Means to ‘Rain More’
+# Seattle vs. Miami: Defining What It Means to ‘Rain More’
 
-> A brief description of what the project does and its purpose.
-Comeparing the amount of rain between Seattle and Miami
+> Comeparing the amount of rain between Seattle and Miami
+
 ---
 
 ## Project Overview
